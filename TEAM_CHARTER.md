@@ -4,7 +4,7 @@
 
 | ชื่อ | GitHub Username | บทบาท |
 |---|---|---|
-| ...  | ...             | Product Owner |
+| kamonporn  | https://github.com/kamonpornth-ai             | Product Owner |
 | ...  | ...             | Scrum Master / Developer |
 | ...  | ...             | Developer |
 
