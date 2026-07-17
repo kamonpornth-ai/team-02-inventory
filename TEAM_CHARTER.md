@@ -2,9 +2,9 @@
 
 ## สมาชิกและบทบาท
 
-| ชื่อ    | GitHub Username | บทบาท |
-
-| kamonporn | ...             | Product Owner |
+| ชื่อ | GitHub Username | บทบาท |
+|---|---|---|
+| ...  | ...             | Product Owner |
 | ...  | ...             | Scrum Master / Developer |
 | ...  | ...             | Developer |
 
